@@ -1,2 +1,6 @@
-# redesigned-octo-telegram
-Demo Repo 
+# resdesigned octo-telegram
+A demo repo
+
+## Introduction
+Lorem ipsum
+sample text
